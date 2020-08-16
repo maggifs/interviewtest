@@ -27,7 +27,7 @@ http://localhost:8080/positions
 
 http://localhost:8080/positions
 
-date should be "YYYY-MM-DD"
+date should be ```"YYYY-MM-DD"``` format.
 
 Sample data to POST:
 ```json
