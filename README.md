@@ -6,6 +6,13 @@ No data is added when API is started.
 
 All methods where tested with Postman.
 
+Files created for the project are located in ```src\main\java\com\example\interviewtest``` and those files are:
+* Position.java
+* RestRepository.java
+* Vessel.java
+* VesselPos.java
+* VesselPosController.java
+
 ## Methods available:
 
 ### GET all objects in repository
